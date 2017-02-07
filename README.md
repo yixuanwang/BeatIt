@@ -3,7 +3,7 @@
 For our final SE project in our 1A term, we decided to make a rhythm game involving the Tiva-C LaunchPad TM4C123G and using the Orbit OLED BoosterPack. The full features we integrated in the game are described in the TivaProjectProposal.pdf. The project is coded in C.
 
 ##### Written by
-* [Jaxon Lin](https://github.com/jaxonL")
+* [Jaxon Lin](https://github.com/jaxonL)
 * [Yixuan Wang](http://github.com/yixuanwang)
 
 

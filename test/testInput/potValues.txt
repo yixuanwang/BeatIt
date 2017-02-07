@@ -1,0 +1,15 @@
+
+Potentiometre values
+
+-> potentio.value:
+from 0 to 4095
+
+divide into equal parts for selection
+
+
+Buttons:
+
+Button 1: booster top
+Button 2: booster bot
+Button 3: lower left **if is high -> not pressed
+Button 4: lower right **if is high -> not pressed

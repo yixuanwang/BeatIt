@@ -1,0 +1,14 @@
+*Name: mapPrecisions.txt
+* Purpose: precision pertaining to the
+		   trackmap size and design
+* Due date: Dec 1 2016
+* Author(s): Jaxon Lin
+
+trackMap (length) x 32 :
+	- if 3 hit track
+		-hit centres:
+			-top hit: (x, 10); mid hit: (x, 18); bot hit: (x, 22)
+		-hit box:
+			-top centre: (12, 10)
+			-mid centre: (12, 18)
+			-bot centre: (12, 26)
